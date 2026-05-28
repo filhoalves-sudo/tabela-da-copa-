@@ -1,0 +1,20 @@
+   h1{
+    color: chartreuse;
+   text-align: center;
+   text-shadow: 0px 0px 10px hwb(64 9% 0%)
+   }
+   body{
+      background-color: cornsilk;
+      font-family: Arial, Helvetica, sans-serif;
+   }
+   p{
+   color: chartreuse;
+   font: family 16px;
+   text-shadow: 0px 0px 10px rgb(248, 248, 0)
+   }
+   h2{
+      color: #000;
+      text-align: center;
+      text-shadow: 0px 0px 10px; 
+   
+   }
